@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on as fullstack
 - 📫 How to reach me Email:will92felipe@gmail.com / Whatsapp: +55 21973976370
 - 😄 Pronouns: ...
-- ⚡ Fun fact: .Py, .Js, .C#, .C++, .PHP, .Swift, .Java, .Go, .SQL, .Ruby
+- ⚡ Fun fact: .Py, .Js, .C#, .C++, .PHP, .Swift, .Java, .Go, .SQL, .Ruby,
+ReactNative, Expo..
 
 <!---
 Will92Felipe/Will92Felipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
